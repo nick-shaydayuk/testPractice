@@ -1,3 +1,5 @@
+[![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Fnick-shaydayuk%2FtestPractice%2Fmain)](https://dashboard.stryker-mutator.io/reports/github.com/nick-shaydayuk/testPractice/main)
+
 # Практика по тестам
 
 Перед началом работы ознакомьтесь с мэйкфайлом и заданиями.
