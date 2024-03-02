@@ -1,4 +1,4 @@
-name: Tests CI
+name: Stryker CI
 
 on: push
 
@@ -16,4 +16,4 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test
-      - uses: education/autograding@v1
+      - run: npx stryker run
