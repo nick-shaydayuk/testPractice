@@ -12,6 +12,9 @@
   "mutate": [
     "index.js"
   ],
+  "dashboard": {
+    "project": "e553473d-6140-4057-bd49-04af1721fd50"
+  },
   "testRunner_comment": "Take a look at https://stryker-mutator.io/docs/stryker-js/jest-runner for information about the jest plugin.",
   "coverageAnalysis": "perTest"
 }
